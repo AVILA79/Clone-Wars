@@ -6,7 +6,7 @@
 
 _-Made by <a href= "https://gourav.io" title="Gourav Goyal"> Gourav Goyal </a>_
 
-## See full tables with better view 👉 [gourav.io/clone-wars](https://gourav.io/clone-wars)
+   ## See full tables with better view 👉 [gourav.io/clone-wars](https://gourav.io/clone-wars)
 
 ---
 
